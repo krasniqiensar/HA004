@@ -1,0 +1,7 @@
+REPOSITORY               TAG                 IMAGE ID            CREATED             SIZE
+krasniqiensar/node-app   latest              0c25467c200e        2 minutes ago       911MB
+<none>                   <none>              1a2646e2833d        3 minutes ago       903MB
+<none>                   <none>              d95b1a033222        6 minutes ago       908MB
+node                     10                  d5680e53a228        9 days ago          903MB
+node                     lts                 7be6a8478f5f        9 days ago          908MB
+hello-world              latest              fce289e99eb9        11 months ago       1.84kB
